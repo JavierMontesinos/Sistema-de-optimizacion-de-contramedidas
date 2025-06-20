@@ -1,0 +1,36 @@
+Activos, amenazas y vulnerabilidades:
+A1:
+  - Amenaza: T1
+  - Amenaza: T2
+A2:
+  - Amenaza: T3
+  - Amenaza: T4
+A3:
+  - Amenaza: T5
+  - Amenaza: T6
+A4:
+  - Amenaza: T7
+  - Amenaza: T1
+A5:
+  - Amenaza: T2
+  - Amenaza: T3
+
+Riesgo potencial inicial: riesgo_A1_T1 + riesgo_A1_T2 + riesgo_A2_T3 + riesgo_A2_T4 + riesgo_A3_T5 + riesgo_A3_T6 + riesgo_A4_T1 + riesgo_A4_T7 + riesgo_A5_T2 + riesgo_A5_T3
+
+Contramedidas aplicadas:
+- M1-Firewall
+- M2-Antivirus
+- M5-Encryption
+- M6-AccessControl
+- M7-VPN
+- M10-Patching
+- M16-NetworkSegmentation
+
+Riesgo residual por activo:
+ - A1: 75.0
+ - A2: 405.0
+ - A3: 83.0
+ - A4: 52.0
+ - A5: 140.0
+
+Riesgo residual total: 755.0

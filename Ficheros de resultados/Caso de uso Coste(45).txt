@@ -1,0 +1,31 @@
+Activos, amenazas y vulnerabilidades:
+A1:
+  - Amenaza: T1
+  - Amenaza: T2
+A2:
+  - Amenaza: T3
+  - Amenaza: T4
+A3:
+  - Amenaza: T5
+  - Amenaza: T6
+A4:
+  - Amenaza: T7
+  - Amenaza: T1
+A5:
+  - Amenaza: T2
+  - Amenaza: T3
+
+Riesgo potencial inicial: riesgo_A1_T1 + riesgo_A1_T2 + riesgo_A2_T3 + riesgo_A2_T4 + riesgo_A3_T5 + riesgo_A3_T6 + riesgo_A4_T1 + riesgo_A4_T7 + riesgo_A5_T2 + riesgo_A5_T3
+
+Contramedidas aplicadas:
+- M6-AccessControl
+- M10-Patching
+
+Riesgo residual por activo:
+ - A1: 650.0
+ - A2: 1150.0
+ - A3: 284.0
+ - A4: 616.0
+ - A5: 700.0
+
+Riesgo residual total: 3400.0
