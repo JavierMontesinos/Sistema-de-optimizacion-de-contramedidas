@@ -72,7 +72,7 @@ A continuación se muestran los resultados obtenidos para el caso de uso con pre
 
 ## Contribuciones
 
-Este proyecto fue desarrollado como Trabajo de Fin de Grado por Javier Montesinos Martí en la Universidad Politécnica de Madrid, bajo la tutoría de Carmen Sánchez Zas.
+Este proyecto fue desarrollado como Trabajo de Fin de Grado por Javier Montesinos Martí en la Escuela Técnica Superior de Ingenieros de Telecomunicación - Universidad Politécnica de Madrid, bajo la tutoría de Carmen Sánchez Zas.
 
 *Última actualización: Junio 2025*
 
