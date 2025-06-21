@@ -65,13 +65,14 @@ Las contramedidas (M0–M25) se clasifican en preventivas y reactivas, cada una 
 A continuación se muestran los resultados obtenidos para el caso de uso con presupuesto de 200, como ejemplo de los ficheros de salida del programa:
 
 ### Resultados Detallados (resultados.txt)
-Sistema-de-optimizacion-de-contramedidas/Ficheros de resultados/Caso de uso Coste(200).txt
+[Resultados detallados del caso de uso (Coste 200)](Ficheros%20de%20resultados/Caso%20de%20uso%20Coste(200).txt)
 
 ### Visualización de la Red (NetworkX)
-Sistema-de-optimizacion-de-contramedidas/Gráficos obtenidos/Presupuesto alto (200).png
+![Visualización de la Red para Presupuesto Alto](Gráficos%20obtenidos/Presupuesto%20alto%20%28200%29.png)
 
 ## Contribuciones
 
 Este proyecto fue desarrollado como Trabajo de Fin de Grado por Javier Montesinos Martí en la Universidad Politécnica de Madrid, bajo la tutoría de Carmen Sánchez Zas.
 
 *Última actualización: Junio 2025*
+
