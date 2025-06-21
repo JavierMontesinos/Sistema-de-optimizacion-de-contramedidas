@@ -33,6 +33,7 @@ git clone https://github.com/JavierMontesinos/Sistema-de-optimizacion-de-contram
 
 # Instalar dependencias
 pip install pulp networkx matplotlib
+```
 
 ## Estructura del Proyecto
 
